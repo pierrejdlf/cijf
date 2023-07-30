@@ -6,11 +6,6 @@ var images = [];
 ////////////////////////////////////////////
 var tagskeys = {
 	"C":["comida","pie-chart.lemon-o.shopping-basket.calculator",0],
-	"N":["naturaleza","pagelines",0],
-	"A":["creacion","music.headphones.eye",0],
-	"D":["debate","commenting.stack-exchange.dot-circle-o.bolt.exclamation-circle.remove.spinner.cogs",0],
-	"O":["ofresco","heart.hand-paper-o.gift.smile-o",0],
-	"B":["busco","life-ring.meh-o.frown-o.search.heart-o.heartbeat",0]
 };
 ////////////////////////////////////////////
 // var addNewPoint = function(text) {
