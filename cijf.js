@@ -69,7 +69,7 @@ var instantiateTodo = function() {
     	}
 	});
 	//console.log(images);
-	//buidList();
+	buidList();
 
 	/////////////////////// EVENTs
 	// search filtering

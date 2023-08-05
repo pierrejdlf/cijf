@@ -5,8 +5,8 @@ html, body {
 	background: black;
 }
 /* ===================================== */
-.hide {
-	display: none !important;
+.searcher {
+	color: gray;
 }
 #gallery {
 	position: absolute;
